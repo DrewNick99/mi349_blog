@@ -38,16 +38,16 @@ img{
 article{
     border-bottom: 1px solid black;
 }
-a[datetime]{
+[datetime]{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    text-rendering: rgb(92, 156, 230);
+    color: rgb(92, 156, 230);
 
 }
-a[title]{
+[title]{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
-    text-rendering: rgb(92, 156, 230);
+    color: rgb(92, 156, 230);
 
 }
 tr{
