@@ -2,7 +2,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
     color: #289919;
-    border-top: rgb(34, 120, 231);
+    border-top: 10px solid rgb(34, 120, 231);
 }
 
 h1{
