@@ -48,6 +48,9 @@ table{
     background-color: #0c2e08;
     margin-bottom: 5px;
 }
+tr{
+    background: rgb(76, 245, 90);
+}
 th{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
