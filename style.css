@@ -41,15 +41,20 @@ article{
 [datetime]{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    color: rgb(92, 156, 230);
-
-}
-[title]{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 15px;
-    color: rgb(92, 156, 230);
+    color: rgb(0, 0, 0);
 
 }
 tr{
     background-color: rgb(21, 99, 18);
+}
+th{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(92, 156, 230);
+}
+td{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    color: rgb(92, 156, 230);
+
 }
