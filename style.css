@@ -9,7 +9,7 @@ body{
     color: #32ce1e;
     border-top: 10px solid rgb(34, 120, 231);
     border-bottom: 10px solid rgb(34, 120, 231);
-    background: rgb(34, 74, 133);
+    background: rgb(218, 218, 218);
 
 }
 
@@ -29,4 +29,7 @@ p{
 
 .blog-post{
     border-bottom: 1px dotted #ccc;
+}
+article{
+    border-bottom: 1px solid black;
 }
