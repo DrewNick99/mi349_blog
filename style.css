@@ -62,3 +62,8 @@ td{
     color: rgb(92, 156, 230);
 
 }
+nav{
+    background: rgb(18, 60, 94);
+    position: sticky;
+
+}
