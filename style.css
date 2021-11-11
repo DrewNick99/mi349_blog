@@ -73,6 +73,7 @@ nav.sticky{
 }
 form{
     display: flex;
+    width: 100%;
 }
 label{
     background-color: rgb(34, 120, 231);
