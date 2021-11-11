@@ -64,9 +64,6 @@ td{
     color: rgb(92, 156, 230);
 
 }
-header{
-    height: 100%;
-}
 nav.sticky{
 
     position: -webkit-sticky;
