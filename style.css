@@ -92,6 +92,7 @@ label:nth-of-type(4){
     flex: 2;
 }
 label:nth-of-type(5){
+    margin-top: 45%;
     background-color: rgb(34, 120, 231);
     flex: 1;
 }
