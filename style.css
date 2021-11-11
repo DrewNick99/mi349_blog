@@ -96,3 +96,8 @@ label:nth-of-type(5){
     background-color: rgb(34, 120, 231);
     flex: 1;
 }
+.frogger{
+    float: left;
+    width: 500px;
+    height: 281.25px;
+}
