@@ -64,7 +64,7 @@ td{
 
 }
 header{
-    min-height: 50em;
+    height: 100%;
 }
 nav.sticky{
 
