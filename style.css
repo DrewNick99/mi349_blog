@@ -97,7 +97,7 @@ label:nth-of-type(5){
     flex: 1;
 }
 .frogger{
-    float: left;
+    float: top;
     width: 500px;
     height: 281.25px;
 }
