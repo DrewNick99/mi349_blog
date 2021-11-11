@@ -71,3 +71,6 @@ nav.sticky{
     top: 0;
     background: rgb(76, 245, 90);
 }
+form{
+    display: flex;
+}
