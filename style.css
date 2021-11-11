@@ -63,7 +63,7 @@ td{
     color: rgb(92, 156, 230);
 
 }
-.sticky{
+nav.sticky{
     background: rgb(76, 245, 90);
     position: -webkit-sticky;
     position: sticky;
